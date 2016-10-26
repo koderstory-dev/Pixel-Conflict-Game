@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3d6a5d0cde6b1cd5e2014715aab27e14:b83c4f65641becbeb085986aa49302b1:925a579bb6875857b011e9b7579ee0e8$ -->
+<TextureAtlas imagePath="borderHV.png">
+    <SubTexture name="borderH" x="2" y="2" width="480" height="88" frameX="0" frameY="0" frameWidth="480" frameHeight="100"/>
+    <SubTexture name="borderV" x="2" y="92" rotated="true" width="320" height="8" frameX="0" frameY="0" frameWidth="10" frameHeight="320"/>
+</TextureAtlas>

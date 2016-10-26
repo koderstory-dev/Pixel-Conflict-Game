@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:efc517ebe67e215052c82be9204cc368:4c104c3b8e7815be81595bd391e6227b:8d91e8bce2bc1b13793d8f2fef952a36$ -->
+<TextureAtlas imagePath="cinBG.png">
+    <SubTexture name="cinBG_bridge" x="244" y="160" width="240" height="152" frameX="0" frameY="-8" frameWidth="240" frameHeight="160"/>
+    <SubTexture name="cinBG_field" x="2" y="302" width="240" height="114" frameX="0" frameY="-46" frameWidth="240" frameHeight="160"/>
+    <SubTexture name="cinBG_forest" x="244" y="2" width="240" height="156" frameX="0" frameY="-4" frameWidth="240" frameHeight="160"/>
+    <SubTexture name="cinBG_grass" x="486" y="232" width="240" height="94" frameX="0" frameY="-66" frameWidth="240" frameHeight="160"/>
+    <SubTexture name="cinBG_ground" x="244" y="314" width="240" height="104" frameX="0" frameY="-56" frameWidth="240" frameHeight="160"/>
+    <SubTexture name="cinBG_hill" x="2" y="2" width="240" height="160"/>
+    <SubTexture name="cinBG_river" x="486" y="134" width="240" height="96" frameX="0" frameY="-64" frameWidth="240" frameHeight="160"/>
+    <SubTexture name="cinBG_street" x="486" y="2" width="240" height="130" frameX="0" frameY="-30" frameWidth="240" frameHeight="160"/>
+    <SubTexture name="cinBG_swamp" x="486" y="328" width="240" height="92" frameX="0" frameY="-68" frameWidth="240" frameHeight="160"/>
+    <SubTexture name="cinBG_village" x="2" y="164" width="240" height="136" frameX="0" frameY="-24" frameWidth="240" frameHeight="160"/>
+</TextureAtlas>

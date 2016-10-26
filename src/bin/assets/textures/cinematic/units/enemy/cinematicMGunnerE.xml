@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f029a763fe42eefc07b5372e7365fc91:6f2842d07b77dc09b656ee46e0658c0a:a231e49628b3e7a44392eef1e7a13974$ -->
+<TextureAtlas imagePath="cinematicMGunnerE.png">
+    <SubTexture name="MGunnerDie0000" x="2" y="54" width="30" height="24" frameX="-22" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerDie0001" x="92" y="28" width="34" height="24" frameX="-22" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerDie0002" x="44" y="34" width="36" height="18" frameX="-22" frameY="-46" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerDie0003" x="2" y="38" width="36" height="14" frameX="-22" frameY="-50" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerDie0004" x="48" y="24" width="42" height="8" frameX="-22" frameY="-56" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerDie0005" x="48" y="14" width="42" height="8" frameX="-22" frameY="-56" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerDuck0000" x="2" y="104" width="26" height="22" frameX="-22" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerDuck0001" x="98" y="2" width="26" height="24" frameX="-22" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerIdle0000" x="2" y="104" width="26" height="22" frameX="-22" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerIdle0001" x="98" y="2" width="26" height="24" frameX="-22" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerAttack0000" x="2" y="14" width="44" height="10" frameX="-16" frameY="-54" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerAttack0001" x="50" y="2" width="46" height="10" frameX="-16" frameY="-54" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerAttack0002" x="2" y="2" width="46" height="10" frameX="-16" frameY="-54" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerAttack0003" x="2" y="26" width="40" height="10" frameX="-16" frameY="-54" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerWalk0000" x="34" y="54" width="26" height="20" frameX="-22" frameY="-44" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerWalk0001" x="30" y="80" width="26" height="20" frameX="-22" frameY="-44" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="MGunnerWalk0002" x="2" y="80" width="26" height="22" frameX="-22" frameY="-42" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:668a236c036bd827020591fc566572af:e30fed36ed0ac3e7ec9230af5855e205:28db148027e7529b0522862f79f9cd66$ -->
+<TextureAtlas imagePath="stakeHolderScreen.png">
+    <SubTexture name="developerScreen" x="105" y="0" width="118" height="61" frameX="-3" frameY="-1" frameWidth="124" frameHeight="63"/>
+    <SubTexture name="sponsorScreen" x="0" y="0" width="105" height="62" frameX="-1" frameY="0" frameWidth="109" frameHeight="62"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a5017bfe62eeb4487aa277aa561e4939:d820d6290cc87c022a9ac03a37e0bfda:1e832ef6cb3cfa47c5a9924ed313d7bb$ -->
+<TextureAtlas imagePath="uiSigns.png">
+    <SubTexture name="signs_attack" x="2" y="60" width="50" height="44" frameX="-8" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="signs_clicked" x="2" y="106" width="52" height="32" frameX="-3" frameY="-22" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="signs_focus" x="56" y="106" width="52" height="32" frameX="-3" frameY="-26" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="signs_hand" x="82" y="2" width="40" height="48" frameX="-12" frameY="-8" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="signs_health" x="54" y="60" width="50" height="44" frameX="-8" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="signs_village" x="2" y="2" width="78" height="56" frameX="-10" frameY="-4" frameWidth="96" frameHeight="64"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d0b0382133c75583aa8df71ea6e98ced:6991a5bc8600d05f0fc1988dcbaa4e43:b8df916e16814c15c5d6546e8c2350e1$ -->
+<TextureAtlas imagePath="uiConfirmation.png">
+    <SubTexture name="confirmation_cancel" x="2" y="2" width="45" height="45"/>
+    <SubTexture name="confirmation_cancel_small" x="96" y="2" width="25" height="25"/>
+    <SubTexture name="confirmation_ok" x="49" y="2" width="45" height="45"/>
+    <SubTexture name="confirmation_ok_small" x="96" y="29" width="25" height="25"/>
+</TextureAtlas>

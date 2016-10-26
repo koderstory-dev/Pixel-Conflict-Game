@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6a979ba595b6a202ef0fa13fb930b305:d847fedb582e956c6275c5d7f9ab6a80:2d6bd5f434cc706ea0ac9c7e62014cad$ -->
+<TextureAtlas imagePath="MenuScreen.png">
+    <SubTexture name="bg0" x="2" y="2" width="550" height="330"/>
+    <SubTexture name="bg1" x="2" y="666" width="550" height="168" frameX="0" frameY="-162" frameWidth="550" frameHeight="330"/>
+    <SubTexture name="bg2" x="2" y="836" width="550" height="142" frameX="0" frameY="-188" frameWidth="550" frameHeight="330"/>
+    <SubTexture name="bgBattle" x="2" y="334" width="550" height="330"/>
+    <SubTexture name="borderH" x="554" y="354" rotated="true" width="77" height="550" frameX="0" frameY="0" frameWidth="550" frameHeight="89"/>
+    <SubTexture name="borderV" x="633" y="354" width="76" height="330" frameX="0" frameY="0" frameWidth="100" frameHeight="330"/>
+    <SubTexture name="levelBox" x="554" y="2" rotated="true" width="200" height="350"/>
+    <SubTexture name="title" x="633" y="686" rotated="true" width="111" height="220" frameX="-18" frameY="-13" frameWidth="256" frameHeight="139"/>
+</TextureAtlas>

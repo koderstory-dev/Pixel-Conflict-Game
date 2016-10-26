@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="8" height="5" tilewidth="60" tileheight="60" nextobjectid="1">
+ <tileset firstgid="1" name="Tile01" tilewidth="60" tileheight="60" tilecount="52">
+  <tile id="0">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_01.png"/>
+  </tile>
+  <tile id="1">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_02.png"/>
+  </tile>
+  <tile id="2">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_03.png"/>
+  </tile>
+  <tile id="3">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_04.png"/>
+  </tile>
+  <tile id="4">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_05.png"/>
+  </tile>
+  <tile id="5">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_06.png"/>
+  </tile>
+  <tile id="6">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_07.png"/>
+  </tile>
+  <tile id="7">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_08.png"/>
+  </tile>
+  <tile id="8">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_09.png"/>
+  </tile>
+  <tile id="9">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_10.png"/>
+  </tile>
+  <tile id="10">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_11.png"/>
+  </tile>
+  <tile id="11">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_12.png"/>
+  </tile>
+  <tile id="12">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_13.png"/>
+  </tile>
+  <tile id="13">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_14.png"/>
+  </tile>
+  <tile id="14">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_15.png"/>
+  </tile>
+  <tile id="15">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_16.png"/>
+  </tile>
+  <tile id="16">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_17.png"/>
+  </tile>
+  <tile id="17">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_18.png"/>
+  </tile>
+  <tile id="18">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_19.png"/>
+  </tile>
+  <tile id="19">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_20.png"/>
+  </tile>
+  <tile id="20">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_21.png"/>
+  </tile>
+  <tile id="21">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_22.png"/>
+  </tile>
+  <tile id="22">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_23.png"/>
+  </tile>
+  <tile id="23">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_24.png"/>
+  </tile>
+  <tile id="24">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_25.png"/>
+  </tile>
+  <tile id="25">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_26.png"/>
+  </tile>
+  <tile id="26">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_27.png"/>
+  </tile>
+  <tile id="27">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_28.png"/>
+  </tile>
+  <tile id="28">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_29.png"/>
+  </tile>
+  <tile id="29">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_30.png"/>
+  </tile>
+  <tile id="30">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_31.png"/>
+  </tile>
+  <tile id="31">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_32.png"/>
+  </tile>
+  <tile id="32">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_33.png"/>
+  </tile>
+  <tile id="33">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_34.png"/>
+  </tile>
+  <tile id="34">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_35.png"/>
+  </tile>
+  <tile id="35">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_36.png"/>
+  </tile>
+  <tile id="36">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_37.png"/>
+  </tile>
+  <tile id="37">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_38.png"/>
+  </tile>
+  <tile id="38">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_39.png"/>
+  </tile>
+  <tile id="39">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_40.png"/>
+  </tile>
+  <tile id="40">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_41.png"/>
+  </tile>
+  <tile id="41">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_42.png"/>
+  </tile>
+  <tile id="42">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_43.png"/>
+  </tile>
+  <tile id="43">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_44.png"/>
+  </tile>
+  <tile id="44">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_45.png"/>
+  </tile>
+  <tile id="45">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_46.png"/>
+  </tile>
+  <tile id="46">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_47.png"/>
+  </tile>
+  <tile id="47">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_48.png"/>
+  </tile>
+  <tile id="48">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_49.png"/>
+  </tile>
+  <tile id="49">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_50.png"/>
+  </tile>
+  <tile id="50">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_51.png"/>
+  </tile>
+  <tile id="51">
+   <image width="60" height="60" source="../gale/Terrains/tile1/tile1_52.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="53" name="Sea" tilewidth="60" tileheight="60" tilecount="24">
+  <tile id="0">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea0_0.png"/>
+  </tile>
+  <tile id="1">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea0_1.png"/>
+  </tile>
+  <tile id="2">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea0_2.png"/>
+  </tile>
+  <tile id="3">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea1_0.png"/>
+  </tile>
+  <tile id="4">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea1_1.png"/>
+  </tile>
+  <tile id="5">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea1_2.png"/>
+  </tile>
+  <tile id="6">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea2_0.png"/>
+  </tile>
+  <tile id="7">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea2_1.png"/>
+  </tile>
+  <tile id="8">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea2_2.png"/>
+  </tile>
+  <tile id="9">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea3_0.png"/>
+  </tile>
+  <tile id="10">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea3_1.png"/>
+  </tile>
+  <tile id="11">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea3_2.png"/>
+  </tile>
+  <tile id="12">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea4_0.png"/>
+  </tile>
+  <tile id="13">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea4_1.png"/>
+  </tile>
+  <tile id="14">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea4_2.png"/>
+  </tile>
+  <tile id="15">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea5_0.png"/>
+  </tile>
+  <tile id="16">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea5_1.png"/>
+  </tile>
+  <tile id="17">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea5_2.png"/>
+  </tile>
+  <tile id="18">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea6_0.png"/>
+  </tile>
+  <tile id="19">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea6_1.png"/>
+  </tile>
+  <tile id="20">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea6_2.png"/>
+  </tile>
+  <tile id="21">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea7_0.png"/>
+  </tile>
+  <tile id="22">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea7_1.png"/>
+  </tile>
+  <tile id="23">
+   <image width="60" height="60" source="../gale/Terrains/tile1/sea7_2.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="77" name="Tile02" tilewidth="60" tileheight="60" tilecount="18">
+  <tile id="0">
+   <image width="60" height="60" source="../gale/Terrains/tile2/1_baseCamp.png"/>
+  </tile>
+  <tile id="1">
+   <image width="60" height="60" source="../gale/Terrains/tile2/2_baseCamp.png"/>
+  </tile>
+  <tile id="2">
+   <image width="60" height="60" source="../gale/Terrains/tile2/3_village.png"/>
+  </tile>
+  <tile id="3">
+   <image width="60" height="60" source="../gale/Terrains/tile2/4_village.png"/>
+  </tile>
+  <tile id="4">
+   <image width="60" height="60" source="../gale/Terrains/tile2/5_forest.png"/>
+  </tile>
+  <tile id="5">
+   <image width="60" height="60" source="../gale/Terrains/tile2/6_forest.png"/>
+  </tile>
+  <tile id="6">
+   <image width="60" height="60" source="../gale/Terrains/tile2/7_mountain.png"/>
+  </tile>
+  <tile id="7">
+   <image width="60" height="60" source="../gale/Terrains/tile2/8_mountain.png"/>
+  </tile>
+  <tile id="8">
+   <image width="60" height="60" source="../gale/Terrains/tile2/9_bridge.png"/>
+  </tile>
+  <tile id="9">
+   <image width="60" height="60" source="../gale/Terrains/tile2/10_bridge.png"/>
+  </tile>
+  <tile id="10">
+   <image width="60" height="60" source="../gale/Terrains/tile2/11_grass.png"/>
+  </tile>
+  <tile id="11">
+   <image width="60" height="60" source="../gale/Terrains/tile2/12_ground.png"/>
+  </tile>
+  <tile id="12">
+   <image width="60" height="60" source="../gale/Terrains/tile2/13_field.png"/>
+  </tile>
+  <tile id="13">
+   <image width="60" height="60" source="../gale/Terrains/tile2/14_swamp.png"/>
+  </tile>
+  <tile id="14">
+   <image width="60" height="60" source="../gale/Terrains/tile2/15_sand.png"/>
+  </tile>
+  <tile id="15">
+   <image width="60" height="60" source="../gale/Terrains/tile2/16_street.png"/>
+  </tile>
+  <tile id="16">
+   <image width="60" height="60" source="../gale/Terrains/tile2/17_river.png"/>
+  </tile>
+  <tile id="17">
+   <image width="60" height="60" source="../gale/Terrains/tile2/18_sea.png"/>
+  </tile>
+ </tileset>
+ <layer name="Tile1" width="8" height="5">
+  <data encoding="base64" compression="zlib">
+   eJwLYmBgYETDYkDMCWUHQWkRNHkuND1aUFoUiKWBmBVJjhdJXgxNHx+a+ejyAL9YAfM=
+  </data>
+ </layer>
+ <layer name="Tile2" width="8" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxNjlsKACAIwLxghRVIUfe/RgoL/Bg+pqKJSE8M5zrLKY7Rr+Qz+agVDnMXBj7ixhuuprvhGr2/r+mfB0b4DVY=
+  </data>
+ </layer>
+</map>

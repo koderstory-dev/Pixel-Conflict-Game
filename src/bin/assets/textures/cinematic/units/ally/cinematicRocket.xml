@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e9a3ca0e0d96a1a773da448c172d8b5c:481023fc5ae1df3fa272c9e2285ec7b2:3343dd7d0657072c5a64f505b759afe0$ -->
+<TextureAtlas imagePath="cinematicRocket.png">
+    <SubTexture name="RocketDie0000" x="80" y="32" width="32" height="24" frameX="-20" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketDie0001" x="2" y="48" width="34" height="26" frameX="-16" frameY="-38" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketDie0002" x="42" y="32" width="36" height="26" frameX="-18" frameY="-38" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketDie0003" x="58" y="10" width="48" height="20" frameX="-10" frameY="-44" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketDie0004" x="2" y="10" width="54" height="14" frameX="-4" frameY="-50" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketDie0005" x="62" y="2" width="56" height="6" frameX="-4" frameY="-58" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketDie0006" x="2" y="2" width="58" height="6" frameX="-4" frameY="-58" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketDuck0000" x="2" y="126" width="26" height="20" frameX="-24" frameY="-44" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketIdle0000" x="96" y="80" width="26" height="24" frameX="-20" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketIdle0001" x="30" y="106" width="26" height="22" frameX="-20" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketAttack0000" x="2" y="126" width="26" height="20" frameX="-24" frameY="-44" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketAttack0001" x="2" y="148" width="22" height="24" frameX="-26" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketAttack0002" x="30" y="130" width="22" height="24" frameX="-26" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketAttack0003" x="58" y="106" width="22" height="24" frameX="-26" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketAttack0004" x="68" y="80" width="26" height="24" frameX="-22" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketAttack0005" x="80" y="58" width="32" height="20" frameX="-26" frameY="-44" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketAttack0006" x="38" y="60" width="28" height="20" frameX="-26" frameY="-44" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketAttack0007" x="80" y="58" width="32" height="20" frameX="-26" frameY="-44" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketAttack0008" x="2" y="126" width="26" height="20" frameX="-24" frameY="-44" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketAttack0009" x="2" y="26" width="38" height="20" frameX="-20" frameY="-44" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketWalk0000" x="2" y="102" width="26" height="22" frameX="-20" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketWalk0001" x="2" y="76" width="26" height="24" frameX="-20" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="RocketWalk0002" x="30" y="82" width="26" height="22" frameX="-20" frameY="-42" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

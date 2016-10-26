@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:627746e33ff9c7244933629eb71270ce:85189730796557405b2f7e13e55a9959:0d97a04b9fe17e5926aa718fd1336339$ -->
+<TextureAtlas imagePath="cinematicInfantryE.png">
+    <SubTexture name="InfantryDie0000" x="94" y="2" width="32" height="22" frameX="-18" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryDie0001" x="52" y="16" width="36" height="22" frameX="-18" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryDie0002" x="2" y="2" width="48" height="16" frameX="-14" frameY="-48" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryDie0003" x="52" y="2" width="40" height="12" frameX="-22" frameY="-52" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryDie0004" x="2" y="68" width="22" height="6" frameX="-22" frameY="-58" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryDuck0000" x="28" y="46" width="22" height="22" frameX="-22" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryDuck0001" x="78" y="50" width="20" height="20" frameX="-24" frameY="-44" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryDuck0002" x="52" y="64" width="20" height="18" frameX="-24" frameY="-46" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryDuck0003" x="100" y="68" width="20" height="16" frameX="-24" frameY="-48" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryDuck0004" x="100" y="50" width="20" height="16" frameX="-24" frameY="-48" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryDuck0005" x="26" y="70" width="20" height="16" frameX="-24" frameY="-48" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryDuck0006" x="100" y="68" width="20" height="16" frameX="-24" frameY="-48" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryIdle0000" x="28" y="46" width="22" height="22" frameX="-22" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryIdle0001" x="28" y="20" width="22" height="24" frameX="-22" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryAttack0000" x="28" y="46" width="22" height="22" frameX="-22" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryAttack0001" x="52" y="40" width="24" height="22" frameX="-22" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryAttack0002" x="90" y="26" width="28" height="22" frameX="-22" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryAttack0003" x="2" y="44" width="24" height="22" frameX="-22" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryAttack0004" x="2" y="20" width="24" height="22" frameX="-22" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryWalk0000" x="28" y="46" width="22" height="22" frameX="-22" frameY="-42" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryWalk0001" x="2" y="76" width="18" height="24" frameX="-26" frameY="-40" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="InfantryWalk0002" x="2" y="102" width="18" height="22" frameX="-26" frameY="-42" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

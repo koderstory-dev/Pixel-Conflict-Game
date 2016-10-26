@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e3f9af44ec7f396b44b72208b819f878:7bd7663f069c6b5ff4e0d505b2f92b7e:d459d9aa1f1aa51a92277a004f772d81$ -->
+<TextureAtlas imagePath="uiBattle.png">
+    <SubTexture name="btnBook_0" x="5" y="249" width="64" height="64"/>
+    <SubTexture name="btnBook_1" x="74" y="249" width="64" height="64"/>
+    <SubTexture name="btnCinema_off" x="5" y="5" width="128" height="56" frameX="0" frameY="-4" frameWidth="128" frameHeight="64"/>
+    <SubTexture name="btnCinema_on" x="5" y="66" width="128" height="56" frameX="0" frameY="-4" frameWidth="128" frameHeight="64"/>
+    <SubTexture name="btnIMap_0" x="5" y="318" width="64" height="64"/>
+    <SubTexture name="btnIMap_1" x="74" y="318" width="64" height="64"/>
+    <SubTexture name="btnMenu_0" x="5" y="387" width="64" height="64"/>
+    <SubTexture name="btnMenu_1" x="74" y="387" width="64" height="64"/>
+    <SubTexture name="btnPause_0" x="5" y="456" width="64" height="64"/>
+    <SubTexture name="btnPause_1" x="74" y="456" width="64" height="64"/>
+    <SubTexture name="btnPlay_0" x="5" y="525" width="64" height="64"/>
+    <SubTexture name="btnPlay_1" x="74" y="525" width="64" height="64"/>
+    <SubTexture name="btnReset_0" x="5" y="594" width="64" height="64"/>
+    <SubTexture name="btnReset_1" x="74" y="594" width="64" height="64"/>
+    <SubTexture name="btnTurn_0" x="5" y="663" width="64" height="64"/>
+    <SubTexture name="btnTurn_1" x="74" y="663" width="64" height="64"/>
+    <SubTexture name="btnVolume_off" x="5" y="127" width="128" height="56" frameX="0" frameY="-4" frameWidth="128" frameHeight="64"/>
+    <SubTexture name="btnVolume_on" x="5" y="188" width="128" height="56" frameX="0" frameY="-4" frameWidth="128" frameHeight="64"/>
+</TextureAtlas>

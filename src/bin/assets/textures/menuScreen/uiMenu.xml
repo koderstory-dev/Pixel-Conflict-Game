@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8645c52b35a853de951e6d8adadcaf4e:9908708cf4f181171634352a392b254a:0dbeed7acf6c3264861a2e70e992bcae$ -->
+<TextureAtlas imagePath="uiMenu.png">
+    <SubTexture name="button" x="2" y="100" width="90" height="94" frameX="-3" frameY="-2" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="button_left" x="94" y="100" width="90" height="94" frameX="-3" frameY="-2" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="button_long2" x="2" y="2" width="190" height="96" frameX="-1" frameY="0" frameWidth="192" frameHeight="96"/>
+    <SubTexture name="button_long3" x="194" y="2" width="282" height="94" frameX="-3" frameY="-2" frameWidth="288" frameHeight="96"/>
+    <SubTexture name="button_right" x="186" y="100" width="90" height="94" frameX="-3" frameY="-2" frameWidth="96" frameHeight="96"/>
+</TextureAtlas>

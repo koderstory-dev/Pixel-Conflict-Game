@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8d1538086bac326233d9f33fe563e702:affc1117a7f1a79d6e9fe24fdae7e6cb:f7b2029c4ba2ee02b2d780029258fdc7$ -->
+<TextureAtlas imagePath="levelPhoto.png">
+    <SubTexture name="level01" x="534" y="105" width="264" height="101"/>
+    <SubTexture name="level06" x="268" y="105" width="264" height="101"/>
+    <SubTexture name="level02" x="534" y="2" width="264" height="101"/>
+    <SubTexture name="level03" x="268" y="2" width="264" height="101"/>
+    <SubTexture name="level04" x="2" y="105" width="264" height="101"/>
+    <SubTexture name="level05" x="2" y="2" width="264" height="101"/>
+</TextureAtlas>

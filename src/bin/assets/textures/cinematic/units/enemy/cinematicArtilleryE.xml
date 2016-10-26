@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:fd00bfcf3e6447a93e1cc8c0c9034120:44522e6ac65df2ba9d7be53b8450c99f:220df77e23f4f07672d707f6d82492b3$ -->
+<TextureAtlas imagePath="cinematicArtilleryE.png">
+    <SubTexture name="ArtilleryAttack0000" x="172" y="124" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryAttack0001" x="170" y="154" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryAttack0002" x="114" y="154" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryAttack0003" x="116" y="124" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryAttack0004" x="172" y="94" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryAttack0005" x="116" y="94" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryAttack0006" x="178" y="64" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryAttack0007" x="122" y="64" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryAttack0008" x="124" y="2" width="56" height="30" frameX="-2" frameY="-34" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryAttack0009" x="60" y="2" width="62" height="40" frameX="-2" frameY="-24" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryDie0000" x="180" y="34" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryDie0001" x="2" y="102" width="56" height="36" frameX="-2" frameY="-28" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryDie0002" x="60" y="44" width="60" height="42" frameX="-2" frameY="-22" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryDie0003" x="2" y="52" width="56" height="48" frameX="0" frameY="-16" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryDie0004" x="2" y="2" width="56" height="48" frameX="0" frameY="-16" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryDie0005" x="60" y="88" width="54" height="30" frameX="-2" frameY="-34" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryDie0006" x="124" y="34" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryDie0007" x="58" y="150" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryDie0008" x="60" y="120" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryIdle0000" x="2" y="140" width="54" height="28" frameX="-2" frameY="-36" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="ArtilleryIdle0001" x="182" y="2" width="54" height="30" frameX="-2" frameY="-34" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

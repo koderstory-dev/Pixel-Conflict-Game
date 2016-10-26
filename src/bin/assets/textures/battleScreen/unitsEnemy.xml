@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a2fa82860168e957e5770e21a43d8f1e:c90ddf32cecc36d77cdeb901fd2b1754:93f188a06a3f1fa9703e4fb063193126$ -->
+<TextureAtlas imagePath="unitsEnemy.png">
+    <SubTexture name="apc_idle0" x="426" y="86" width="56" height="36" frameX="-6" frameY="-14" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="apc_idle1" x="306" y="88" width="56" height="34" frameX="-6" frameY="-16" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="apc_walk0" x="426" y="86" width="56" height="36" frameX="-6" frameY="-14" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="apc_walk1" x="366" y="88" width="56" height="34" frameX="-6" frameY="-16" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="artilleryTruck_idle0" x="4" y="4" width="60" height="48" frameX="-2" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="artilleryTruck_idle1" x="4" y="56" width="60" height="46" frameX="-2" frameY="-8" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="artilleryTruck_walk0" x="4" y="4" width="60" height="48" frameX="-2" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="artilleryTruck_walk1" x="4" y="56" width="60" height="46" frameX="-2" frameY="-8" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="artillery_idle0" x="194" y="48" width="60" height="38" frameX="-2" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="artillery_idle1" x="390" y="46" width="60" height="36" frameX="-2" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="artillery_walk0" x="194" y="48" width="60" height="38" frameX="-2" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="artillery_walk1" x="390" y="46" width="60" height="36" frameX="-2" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="car_idle0" x="250" y="90" width="52" height="30" frameX="-6" frameY="-18" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="car_idle1" x="194" y="90" width="52" height="32" frameX="-6" frameY="-16" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="car_walk0" x="250" y="90" width="52" height="30" frameX="-6" frameY="-18" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="car_walk1" x="194" y="90" width="52" height="32" frameX="-6" frameY="-16" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="infantry_idle0" x="454" y="4" width="40" height="36" frameX="-16" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="infantry_idle1" x="304" y="4" width="40" height="38" frameX="-16" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="infantry_walk0" x="454" y="4" width="40" height="36" frameX="-16" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="infantry_walk1" x="348" y="46" width="38" height="38" frameX="-18" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="mGunner_idle0" x="392" y="4" width="44" height="36" frameX="-16" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="mGunner_idle1" x="256" y="4" width="44" height="38" frameX="-16" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="mGunner_walk0" x="392" y="4" width="44" height="36" frameX="-16" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="mGunner_walk1" x="258" y="46" width="42" height="38" frameX="-18" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="rocket_idle0" x="454" y="44" width="40" height="36" frameX="-14" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="rocket_idle1" x="304" y="46" width="40" height="38" frameX="-14" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="rocket_walk0" x="454" y="44" width="40" height="36" frameX="-14" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="rocket_walk1" x="348" y="4" width="40" height="38" frameX="-14" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="supply_idle0" x="68" y="4" width="60" height="42" frameX="-2" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="supply_idle1" x="130" y="50" width="60" height="40" frameX="-2" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="supply_walk0" x="68" y="4" width="60" height="42" frameX="-2" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="supply_walk1" x="130" y="50" width="60" height="40" frameX="-2" frameY="-12" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="tank_idle0" x="68" y="50" width="58" height="42" frameX="-4" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="tank_idle1" x="132" y="4" width="58" height="40" frameX="-4" frameY="-8" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="tank_walk0" x="68" y="50" width="58" height="42" frameX="-4" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="tank_walk1" x="194" y="4" width="58" height="40" frameX="-4" frameY="-8" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

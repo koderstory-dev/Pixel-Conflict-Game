@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:41288cf4a7b5473570c79b797bbad164:b8cc28a4f08c7d7df2481d4bf2661586:a380dcedd974d59ef0ce9d6a4ad05781$ -->
+<TextureAtlas imagePath="flags.png">
+    <SubTexture name="allyFlag" x="2" y="2" width="52" height="90" frameX="-6" frameY="-4" frameWidth="62" frameHeight="98"/>
+    <SubTexture name="enemyFlag" x="56" y="2" width="52" height="90" frameX="-6" frameY="-4" frameWidth="62" frameHeight="98"/>
+</TextureAtlas>

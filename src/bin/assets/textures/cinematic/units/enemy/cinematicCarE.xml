@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:054d2f9f9bbbb94e2aed1abab24ae8a7:4afc2cee19407018222ac9e64b31a0d2:711b782bec4d9eaab0a4cf7ed9ab7b75$ -->
+<TextureAtlas imagePath="cinematicCarE.png">
+    <SubTexture name="CarDie0000" x="2" y="216" width="58" height="30" frameX="0" frameY="-34" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="CarIdle0000" x="2" y="146" width="58" height="34" frameX="0" frameY="-30" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="CarAttack0000" x="2" y="110" width="58" height="34" frameX="0" frameY="-30" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="CarAttack0001" x="2" y="2" width="60" height="34" frameX="0" frameY="-30" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="CarAttack0002" x="2" y="74" width="58" height="34" frameX="0" frameY="-30" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="CarAttack0003" x="2" y="38" width="58" height="34" frameX="0" frameY="-30" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="CarWalk0000" x="2" y="146" width="58" height="34" frameX="0" frameY="-30" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="CarWalk0001" x="2" y="182" width="58" height="32" frameX="0" frameY="-32" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

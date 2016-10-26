@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:12d81c946964cc4b2d0662d216100ad8:7a4949cc748255d8ae500c0d9ca2de43:a81ae2febffc7b82a94261b403bd325c$ -->
+<TextureAtlas imagePath="tile2.png">
+    <SubTexture name="10_bridge" x="2" y="164" width="34" height="46" frameX="-11" frameY="-7" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="1_baseCamp" x="2" y="2" width="58" height="52" frameX="-1" frameY="-1" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="2_baseCamp" x="54" y="208" width="56" height="40" frameX="-2" frameY="0" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="3_village" x="38" y="164" width="52" height="42" frameX="-5" frameY="-11" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="4_village" x="2" y="56" width="58" height="52" frameX="0" frameY="-1" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="5_forest" x="62" y="2" width="56" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="6_forest" x="62" y="64" width="56" height="54" frameX="0" frameY="0" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="7_mountain" x="2" y="110" width="58" height="52" frameX="0" frameY="-5" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="8_mountain" x="62" y="120" width="56" height="42" frameX="0" frameY="-5" frameWidth="60" frameHeight="60"/>
+    <SubTexture name="9_bridge" x="2" y="212" width="50" height="32" frameX="-5" frameY="-17" frameWidth="60" frameHeight="60"/>
+</TextureAtlas>

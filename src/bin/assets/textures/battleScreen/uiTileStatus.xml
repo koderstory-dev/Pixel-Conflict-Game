@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:39b2fc304dd7af5386f784f5ca177431:e1e10c8b0b0f1d12afe0a8069f29a59c:b9a51b9e61d2c65dca3d980bf2bdf27f$ -->
+<TextureAtlas imagePath="uiTileStatus.png">
+    <SubTexture name="movable_0" x="2" y="2" width="64" height="64"/>
+    <SubTexture name="movable_1" x="2" y="68" width="64" height="64"/>
+    <SubTexture name="movable_2" x="2" y="134" width="64" height="64"/>
+    <SubTexture name="movable_3" x="74" y="2" width="64" height="64"/>
+    <SubTexture name="movable_4" x="140" y="2" width="64" height="64"/>
+    <SubTexture name="selected" x="46" y="200" width="26" height="16" frameX="-20" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="target_0" x="2" y="200" width="42" height="42" frameX="-12" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="target_1" x="68" y="68" width="60" height="60" frameX="-2" frameY="-2" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

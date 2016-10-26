@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d61724aa10991ed1de38cf55b3426788:dac8e680c17523acb97cd04fa67c8595:3e5f224fa5f06da370f2a45f29ccde26$ -->
+<TextureAtlas imagePath="PictureReport.png">
+    <SubTexture name="lose" x="2" y="2" width="300" height="49"/>
+    <SubTexture name="unresolved" x="2" y="53" width="300" height="49"/>
+    <SubTexture name="winning" x="2" y="104" width="300" height="49"/>
+</TextureAtlas>

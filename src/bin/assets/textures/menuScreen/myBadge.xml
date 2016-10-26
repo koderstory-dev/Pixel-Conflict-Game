@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b87b2b3a79ded00d91768014d2d954db:6ba841a271fd694b027cabe234f16451:ad2ca1efca49cfb28a98900bbb63ca0c$ -->
+<TextureAtlas imagePath="myBadge.png">
+    <SubTexture name="Cinematic" x="64" y="192" width="64" height="64"/>
+    <SubTexture name="FirstBlood" x="64" y="128" width="64" height="64"/>
+    <SubTexture name="IAmTheMan" x="0" y="192" width="64" height="64"/>
+    <SubTexture name="Mafia" x="0" y="128" width="64" height="64"/>
+    <SubTexture name="Murder" x="64" y="64" width="64" height="64"/>
+    <SubTexture name="Newbie" x="0" y="64" width="64" height="64"/>
+    <SubTexture name="Rambo" x="64" y="0" width="64" height="64"/>
+    <SubTexture name="Restart" x="0" y="0" width="64" height="64"/>
+</TextureAtlas>

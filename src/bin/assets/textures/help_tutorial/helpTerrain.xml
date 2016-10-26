@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:14f0fb59ed1004e41d889b04e39a0b34:72209cb04c81730dcb2f189da8e543ea:76eb8966e4144ef503e0f17ed0d391b9$ -->
+<TextureAtlas imagePath="helpTerrain.png">
+    <SubTexture name="terrain_bridge" x="308" y="2" width="32" height="32"/>
+    <SubTexture name="terrain_field" x="274" y="2" width="32" height="32"/>
+    <SubTexture name="terrain_forest" x="240" y="2" width="32" height="32"/>
+    <SubTexture name="terrain_grass" x="206" y="2" width="32" height="32"/>
+    <SubTexture name="terrain_ground" x="172" y="2" width="32" height="32"/>
+    <SubTexture name="terrain_mountain" x="138" y="2" width="32" height="32"/>
+    <SubTexture name="terrain_river" x="104" y="2" width="32" height="32"/>
+    <SubTexture name="terrain_street" x="70" y="2" width="32" height="32"/>
+    <SubTexture name="terrain_swamp" x="36" y="2" width="32" height="32"/>
+    <SubTexture name="terrain_village" x="2" y="2" width="32" height="32"/>
+</TextureAtlas>
