@@ -1,5 +1,6 @@
 # PixelConflict
-![pixel conflict](title.png)  ![starling](starling.jpg)
+![pixel conflict](title.png)  
+![starling](starling.jpg)
 
 Pixel Conflict is turn based game with pixel style about battlefield. User plays green team while the AI plays red team. The are several levels in the game. Each level has certain objective. For example user must capture certain tile before x turns or destroy all units etc. You can play this game online [here](http://www.y8.com/games/pixel_conflict).
 
