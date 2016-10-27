@@ -1,8 +1,13 @@
 # PixelConflict
+![pixel conflict](title.png)
 
-Pixel Conflict is turn based game with pixel style about battlefield. User plays green team while the AI plays red team. The are several levels in the game. Each level has certain objective. For example user must capture certain tile before x turns or destroy all units etc.
+Pixel Conflict is turn based game with pixel style about battlefield. User plays green team while the AI plays red team. The are several levels in the game. Each level has certain objective. For example user must capture certain tile before x turns or destroy all units etc. You can play this game online [here](http://www.y8.com/games/pixel_conflict).
 
-PixelConflict developed using Starling Framework and Adobe Air. You can play this game online [here](http://www.y8.com/games/pixel_conflict). Altough this game ported to web it is possible to port it to android/iOS because Starling framework is cross platform framework. AI at first built using Adaptive Neural Network and Influence Map [research paper](http://https://www.aaai.org/Papers/AIIDE/2008/AIIDE08-027.pdf]) but then it changed to Finite State Machine (FSM) AI because I can't control ANN AI manually when I need to design game level.
+![starling](starling.jpg)
+
+I developed all elements in the game from art, animation to its code. It is developed using [Starling Framework](http://gamua.com/starling/) and [Adobe Air](http://www.adobe.com/products/air.html). Altough this game ported to web it is possible to port it to android/iOS because Starling framework is cross platform framework. I design this game with mobile in mindset. You will see that my game UI below is mobile friendly but then I publish it only on web version. 
+
+Its AI at first built using Adaptive Neural Network and Influence Map [(research paper)](http://https://www.aaai.org/Papers/AIIDE/2008/AIIDE08-027.pdf]) but then it changed to Finite State Machine (FSM) AI because I can't control ANN AI manually when I need to design game level.
 
 This game covers some features:
 - Y8 API implementation
