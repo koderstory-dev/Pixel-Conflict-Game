@@ -10,7 +10,7 @@ This game covers some features:
 - A* shortest path 
 - Pixel art assets
 - local save using shared object
-- Beautifull code :P
+- Beautiful code :P
 
 
 ![screenshot 1](pic1.jpg "Screenshot 1")
