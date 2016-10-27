@@ -2,7 +2,16 @@
 
 Pixel Conflict is turn based game with pixel style about battlefield. User plays green team while the AI plays red team. The are several levels in the game. Each level has certain objective. For example user must capture certain tile before x turns or destroy all units etc.
 
-PixelConflict developed using Starling Framework and Adobe Air. You can play this game online [here](http://www.y8.com/games/pixel_conflict). Altough this game ported to web it is possible to port it to android/iOS because Starling framework is cross platform framework.
+PixelConflict developed using Starling Framework and Adobe Air. You can play this game online [here](http://www.y8.com/games/pixel_conflict). Altough this game ported to web it is possible to port it to android/iOS because Starling framework is cross platform framework. AI at first built using Adaptive Neural Network and Influence Map [research paper](http://https://www.aaai.org/Papers/AIIDE/2008/AIIDE08-027.pdf]) but then it changed to Finite State Machine (FSM) AI because I can't control ANN AI manually when I need to design game level.
+
+This game covers some features:
+- Y8 API implementation
+- Design pattern in the game like Model-view-controller pattern in game, factory pattern, observer pattern etc
+- A* shortest path 
+- Pixel art assets
+- local save using shared object
+- Beautifull code :P
+
 
 ![screenshot 1](pic1.jpg "Screenshot 1")
 ![screenshot 2](pic2.jpg "Screenshot 2")
